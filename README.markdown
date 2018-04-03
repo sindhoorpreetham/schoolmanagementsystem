@@ -19,4 +19,5 @@ Run the command "bundle install --local".
 Update the MySQL database details in config/database.yml (under "development:")
 Run the command "rake db:create". This will create the required database.
 Create the database from your Database manager.
-Finally, run the command "mongrel_rails start".This would start the server and it will be accessible at http://localhost:3000
+Finally, run the command "mongrel_rails start".This would start the server and it will be accessible at http://localhost:3000.
+
