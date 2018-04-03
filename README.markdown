@@ -2,7 +2,9 @@ This is a open source School management system based on Ruby on Rails by Foradia
 
 # Installation in Windows :
 Step 1: Install Ruby
+
 Download and install One-Click Ruby Installer for Windows. 
+
 https://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-1.8.7-p302.exe 
 
 Step 2: Install MySQL
